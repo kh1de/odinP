@@ -1,0 +1,32 @@
+body{
+    background-color: #23272e;
+    color: #aab2be;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title,
+h4{
+    color: #ae3841;
+    text-align: center;
+}
+
+h4{
+    color: #88c276;
+}
+
+p{
+    font-size: 18px;
+    font-weight: 200px;
+}
+
+.resize{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 300px;
+}
+
+.main{
+    color: #9f8c68;
+}
